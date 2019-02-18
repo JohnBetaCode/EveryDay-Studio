@@ -1,0 +1,9 @@
+hacer esto me ha dejado de moraleja que los problemas pasan con el tiempo, no se olvidan, pero si se superan y con el tiempo aprendes a sonreirle a la vida. 
+El camino ha sido largo pero lo es mas el que nos queda por delante.
+
+
+
+Para el que se lo pregunte, hice un script en python para hacer el video.
+
+
+I've been taking a picture to myself for almost five yers, I made this video with a python script (Python, OpenCV, ffmpeg) soon a post the link to the repo!, the song is "Everyday by Carly Comando"
